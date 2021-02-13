@@ -1,5 +1,5 @@
 <div style="display:flex; flex-direction:column; align-items: center">
-    <img src="./avatar.png" alt="my icon" style="width: 100px;">
+    <img src="./avatar.png" alt="my icon" style="width: 50px;">
 <h1>Leo Tuan Dinh</h1>
 <p style="color:#a7a7aa">Software Developer</p>
 </div>
