@@ -4,7 +4,7 @@
 <p style="color:#a7a7aa">Software Developer</p>
 </div>
 
-👨‍🎓 : My name is Nguyen Anh Tuan Dinh, just call me Leo for short. I have a strong background in Computer Science and Blockchain Development. I love passionately developing software, so I have been learning cutting-edge techs for improving my programming skills and broadening my knowledge generally. I enjoy being challenged in projects that require me to work out of my comfort zone.
+👨‍🎓 : Hi, I'm Leo - a software developer specializing in Blockchain technology. I'm constantly looking for new technologies to learn and challenging projects to take on. Stepping outside of my comfort zone is something I thrive on.
 
 My works:
 
