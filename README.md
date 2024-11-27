@@ -6,11 +6,9 @@
 
 👨‍🎓 : Hi, I'm Leo - a software developer specializing in Blockchain technology. I'm constantly looking for new technologies to learn and challenging projects to take on. Stepping outside of my comfort zone is something I thrive on.
 
-My works:
+My Blockchain Projects:
 
 🏫 : [George Brown - Block-chain Course](https://github.com/georgebrown-blockchain-2019-2020)
-
-💝 : [Personal projects](https://github.com/georgebrown-blockchain-2019-2020)
 
 More about me
 
